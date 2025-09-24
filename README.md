@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Acedemic Potal <br>I'm currently learning Full-Stack Development<br>I'm persuing B.Tech
+I'm persuing B.tech <br>I'm currently learning Full-Stack Development<br>
 
 
 ## 🌐 Socials:

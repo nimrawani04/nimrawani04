@@ -1,5 +1,6 @@
 ## 📌 About Me
-- Artificial Intelligence & Machine Learning enthusiast and Web Developer, dedicated to building smart, data-driven web solutions and delivering innovative digital experiences.
+- I’m a Web Developer with a strong interest in Artificial Intelligence and Machine Learning, focused on building scalable, data-driven applications. I enjoy transforming complex problems into clean, efficient, and user-centric solutions through well-structured code and thoughtful design.
+- I focus on strengthening my expertise in software engineering, machine learning, and system design by building projects grounded in practical, real-world applications.
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=nimrawani04">

@@ -12,7 +12,7 @@
 
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nimrawani04&theme=dracula&hide_border=true&cache_seconds=86400" alt="nimrawani04's GitHub Streak" width="49%" />
 </p>

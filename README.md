@@ -1,3 +1,5 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Nimra Wani</h1>
+
 ## 📌 About Me
 - I’m a Web Developer with a strong interest in Artificial Intelligence and Machine Learning, focused on building scalable, data-driven applications. I enjoy transforming complex problems into clean, efficient, and user-centric solutions through well-structured code and thoughtful design.
 - I focus on strengthening my expertise in software engineering, machine learning, and system design by building projects grounded in practical, real-world applications.
@@ -14,7 +16,12 @@
 
 ## 📊 GitHub Stats 
 <p align="center">
+  
   <img src="https://streak-stats.demolab.com/?user=nimrawani04&theme=dracula&hide_border=true&cache_seconds=86400" alt="nimrawani04's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=nimrawani04&theme=dracula&radius=10" alt="nimrawani04's Activity Graph" />
 </p>
 
 

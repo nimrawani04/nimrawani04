@@ -7,14 +7,14 @@
   <img alt="Open to: New opportunities in Web Dev & AI/ML · Web Developer with a passion for Artificial Intelligence" src="readme/typing-light.svg">
 </picture>
 
-<p>
-  <img src="https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/coding.gif" width="600" alt="Pixel Coding Animation">
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readme/now-dark.svg">
   <img alt="About Me & Socials" src="readme/now-light.svg">
 </picture>
+
+<p>
+  <img src="https://raw.githubusercontent.com/nimrawani04/pixel_gifs/main/coding.gif" width="600" alt="Pixel Coding Animation">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readme/h-stack-dark.svg">
